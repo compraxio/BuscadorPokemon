@@ -208,21 +208,16 @@ Este proyecto está licenciado bajo la **MIT License**. Consulta el archivo [LIC
 
 ---
 
-## 👥 **Autores & Contribuyentes**
+## 👥 **Autores
 
 **Luis Ángel Acuna Cárdenas** – [@compraxio](https://github.com/compraxio)
-
-**Contribuyentes destacados**:
-- [@usuario1](https://github.com/usuario1) – [Contribución](https://github.com/compraxio/BuscadorPokemon/commits/usuario1)
-- [@usuario2](https://github.com/usuario2) – [Contribución](https://github.com/compraxio/BuscadorPokemon/commits/usuario2)
 
 ---
 
 ## 🐛 **Reportar Issues & Soporte**
 
 Si encuentras un bug o tienes una sugerencia, por favor abre un **issue** en este repositorio. Para soporte rápido, puedes:
-- **Unirse al chat** en [Discord](https://discord.gg/invite) (si aplica).
-- **Enviar un correo** a [contacto@ejemplo.com](mailto:contacto@ejemplo.com).
+- **Enviar un correo** a luisangelacu10@gmail.com.
 
 ### **Preguntas frecuentes (FAQ)**
 1. **¿Cómo obtengo los datos de los Pokémon?**
@@ -245,9 +240,6 @@ Si encuentras un bug o tienes una sugerencia, por favor abre un **issue** en est
 - [ ] **Exportar datos**: Permitir exportar información de Pokémon a CSV/JSON.
 - [ ] **Multilenguaje**: Soporte para más idiomas (inglés, francés, etc.).
 
-### **Issues conocidos**
-- [#123](https://github.com/compraxio/BuscadorPokemon/issues/123) – Optimizar carga de imágenes en móviles.
-- [#456](https://github.com/compraxio/BuscadorPokemon/issues/456) – Mejorar manejo de errores en la API.
 
 ---
 
@@ -256,13 +248,3 @@ Si encuentras un bug o tienes una sugerencia, por favor abre un **issue** en est
 🌟 **Star este repositorio** si te gusta el proyecto.
 💬 **Comenta en los issues** con tus sugerencias.
 📢 **Comparte** tu experiencia usando BuscadorPokemon.
-
-¡Gracias por ser parte de este proyecto! 🎮✨
-```
-
-Este README está diseñado para ser:
-- **Atractivo** con emojis y un diseño visual claro.
-- **Informativo** con instrucciones paso a paso y ejemplos prácticos.
-- **Fácil de seguir** con una estructura lógica y bien organizada.
-- **Motivador** para que los desarrolladores contribuyan y den "star" al repositorio.
-- **Profesional** con buenas prácticas de documentación para GitHub.
