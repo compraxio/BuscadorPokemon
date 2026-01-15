@@ -24,11 +24,11 @@ export const router = createBrowserRouter([
     element: <Layout />,
     children: [
       {
-        path: '/',
+        path: '/BuscadorPokemon',
         element: <Home />,
       },
       {
-        path: '/:pokemon',
+        path: '/BuscadorPokemon/:pokemon',
         element: <PokeInfo />,
         loader: infoLoader,
         HydrateFallback: () => <h1>Cargando...</h1>,

@@ -16,13 +16,13 @@ export function Layout() {
           </div>
           <nav className="hidden md:flex items-center gap-10">
             <NavLin
-              to="/"
+              to="/BuscadorPokemon"
               className="text-sm font-bold hover:text-pokemon-blue transition-colors"
             >
               Inicio
             </NavLin>
           </nav>
-          <div className='flex flex-wrap gap-2'>
+          <div className="flex flex-wrap gap-2">
             <ModeToggle />
             <a
               href="https://github.com/compraxio/BuscadorPokemon.git"
@@ -30,7 +30,11 @@ export function Layout() {
               rel="noopener noreferrer"
               title="repositorio de github"
             >
-              <img src={github} alt="Logo github" className="w-8 h-8 dark:bg-amber-50 rounded-full" />
+              <img
+                src={github}
+                alt="Logo github"
+                className="w-8 h-8 dark:bg-amber-50 rounded-full"
+              />
             </a>
           </div>
         </div>

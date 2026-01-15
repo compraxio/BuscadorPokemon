@@ -37,7 +37,7 @@ const Home = () => {
   const onSubmit: SubmitHandler<Inputs> = (data) => {
     const nombrePokemon = data.pokemon;
 
-    navigate(`/${nombrePokemon}`);
+    navigate(`/BuscadorPokemon/${nombrePokemon}`);
   };
 
   return (
