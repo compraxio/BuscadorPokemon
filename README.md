@@ -1,4 +1,3 @@
-```markdown
 # 🎮 BuscadorPokemon - La Enciclopedia Pokémon Definitiva
 
 ![GitHub Stars](https://img.shields.io/github/stars/compraxio/BuscadorPokemon?style=social)
@@ -53,7 +52,6 @@ Asegúrate de tener instalados:
 ```bash
 git clone https://github.com/compraxio/BuscadorPokemon.git
 cd BuscadorPokemon
-```
 
 ### **Instalar dependencias**
 ```bash
