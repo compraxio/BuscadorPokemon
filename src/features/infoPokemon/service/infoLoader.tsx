@@ -13,7 +13,7 @@ import type { LoaderFunctionArgs } from 'react-router-dom';
  */
 export const infoLoader = async ({ params }: LoaderFunctionArgs) => {
   const response = await fetch(
-    `https://pokeapi.co/api/v2/pokemon/${params.pokemon}`
+    `${import.meta.env.VITE_API_BASE_URL}/${params.pokemon}`
   );
   if (!response.ok) {
     throw new Response('pokemon no encontrado', { status: 404 });
