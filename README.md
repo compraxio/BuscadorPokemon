@@ -208,7 +208,7 @@ Este proyecto está licenciado bajo la **MIT License**. Consulta el archivo [LIC
 
 ---
 
-## 👥 **Autores
+## 👥 **Autores**
 
 **Luis Ángel Acuna Cárdenas** – [@compraxio](https://github.com/compraxio)
 
