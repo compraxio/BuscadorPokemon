@@ -6,7 +6,7 @@ import path from 'path';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base:"https://compraxio.github.io/",
+  base:"https://compraxio.github.io/BuscadorPokemon",
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),

@@ -1,7 +1,6 @@
 import type { UseFormSetValue } from 'react-hook-form';
 import type { Inputs } from '@/features/pokemon/components/Home';
 import { elemento } from '@/shared/lib/selecTipo';
-
 interface SugerenciaType {
   tipo:
     | 'normal'
