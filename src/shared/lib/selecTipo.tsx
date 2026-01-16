@@ -27,7 +27,7 @@ export const elemento = (tipo: string) => {
 
   return (
     <svg width="25" height="25">
-      <use href={`/TyposPokemon.svg#${icono}`} />
+      <use href={`/BuscadorPokemon/TyposPokemon.svg#${icono}`} />
     </svg>
   );
 };
